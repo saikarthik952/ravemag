@@ -1,8 +1,6 @@
 # ravemag
+EDM App which gives up to date news about Electronic Dance music and give top 10 tracks which are buzzing.
 
-A new Flutter application.
+A Unique feature where the people can answer the poll given every week.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Developed By <h1>Sai Karthik</h1>
