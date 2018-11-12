@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "25538119762",
+    "firebase_url": "https://ravemag-209d2.firebaseio.com",
+    "project_id": "ravemag-209d2",
+    "storage_bucket": "ravemag-209d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25538119762:android:0797f1e291ae297d",
+        "android_client_info": {
+          "package_name": "official.karthik.ravemag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25538119762-pobck7po7n6dfhc6j0nvq5npau1fht3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "official.karthik.ravemag",
+            "certificate_hash": "c30dede4d973510fc015ddfc488ae363aa226245"
+          }
+        },
+        {
+          "client_id": "25538119762-iefdt5dftcupuddel3vro2smnqkti6i0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "25538119762-iefdt5dftcupuddel3vro2smnqkti6i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEqDrCZRUt4oWuqDLvbroCXmwsV4-aCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25538119762-iefdt5dftcupuddel3vro2smnqkti6i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
